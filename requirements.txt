@@ -1,0 +1,10 @@
+# data munging
+numpy
+transformers
+jinja2
+
+# fine tune llm
+torch
+peft
+trl
+bitsandbytes
